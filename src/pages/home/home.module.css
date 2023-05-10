@@ -1,0 +1,81 @@
+.container{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(217, 0, 255));
+}
+
+.cardFront{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 40px;
+    margin-top: 20px;
+   
+}
+
+.contentCards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-bottom: 100px;
+  
+}
+
+.button{
+    height: 50px;
+    display: flex;
+    position: absolute;
+    width: 120px;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: rgb(205, 0, 107) ;
+    cursor: pointer;
+    color: rgb(205, 0, 107);
+    margin-top: 40px;
+    
+}
+
+.nameCard{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: rgb(205, 0, 107);
+    padding: 12px;
+}
+
+.description{
+    max-width: 162px;
+    font-size: small;
+    margin-top: 12px;
+}
+
+
+@media screen and (max-device-width: 480px) {
+    .cardFront {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        padding: 2px;
+    }
+
+    .imgCard{
+        width: 162px;
+        height: 330px;
+    }
+
+    .nameCard{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        color: rgb(205, 0, 107);
+        font-size: small;
+    }
+
+    .contentCards{
+        margin-bottom: 150px;
+    }
+}
