@@ -1,13 +1,18 @@
-import * as React from 'react';
-import Container from '../../atoms/container/container';
+import * as React from "react";
+import Container from "../../atoms/container/container";
 
-import style from './header.module.css';
+import style from "./header.module.css";
 
 function Header() {
   return (
-    <header className={style.header}>
-      <Container>
-        <img src="/images/personare.png" alt="logo" height="100px" width="100px" />
+    <header>
+      <Container className={style.header}>
+        <img
+          className={style.img}
+          src="/images/personare.png"
+          alt="logo"
+          height="80px"
+        />
       </Container>
     </header>
   );

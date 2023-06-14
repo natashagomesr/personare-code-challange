@@ -1,0 +1,26 @@
+.button {
+    height: 55px;
+    display: flex;
+    position: absolute;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    border-radius: 8px;
+    border-bottom: 4px solid rgb(161, 35, 101);
+    cursor: pointer;
+    color: white;
+    background-color: rgb(205, 0, 107);
+    margin-top: 300px;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .button:hover{
+    background-color: rgb(161, 35, 101);
+    color: white;
+  }
+  
+  .button-clicked {
+    background-color: rgb(161, 35, 101);
+    color: white;
+  }
