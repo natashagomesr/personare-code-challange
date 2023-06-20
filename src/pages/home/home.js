@@ -30,13 +30,13 @@ function HomePage() {
 
       <Container className={style.container}>
         <div className={style.contentText}>
-          <div className={style.text}>TAROT DO DIA</div>
+          <div className={style.text}>CARTAS DO DIA</div>
           <div className={style.descriptionText}>
-            O Tarot do Dia é um jogo de tarot online grátis que traz dicas para
-            o seu dia. Concentre-se no seu momento e sorteie uma carta. Funciona
-            assim: você joga seu tarot grátis, consulta a carta e recebe
-            orientações de atitudes que pode tomar para aproveitar seu dia e o
-            melhor de cada situação.
+            O Cartas do Dia é um jogo de cartas online grátis que traz dicas
+            para o seu dia. Concentre-se no seu momento e sorteie uma carta.
+            Funciona assim: você joga seu cartas grátis, consulta a carta e
+            recebe orientações de atitudes que pode tomar para aproveitar seu
+            dia e o melhor de cada situação.
           </div>
           <img
             className={style.card}
@@ -66,13 +66,13 @@ function HomePage() {
           />
           <div className={style.textBox}>
             <div className={style.titleBox}>
-              UM CONSELHO DE TAROT PARA O SEU DIA
+              UM CONSELHO DE CARTAS PARA O SEU DIA
             </div>
-            O Tarot online te ajuda a identificar o melhor modo de agir hoje. Ao
-            jogar Tarot do dia, você descobre as atitudes mais indicadas para as
-            próximas 24 horas e, no final do jogo, você ainda ganha uma mensagem
-            de apoio para um dia melhor, como um lema, para você refletir sobre
-            qual atitude tomar diante da situação apresentada.
+            O Cartas online te ajuda a identificar o melhor modo de agir hoje.
+            Ao jogar Cartas do dia, você descobre as atitudes mais indicadas
+            para as próximas 24 horas e, no final do jogo, você ainda ganha uma
+            mensagem de apoio para um dia melhor, como um lema, para você
+            refletir sobre qual atitude tomar diante da situação apresentada.
             <div className={style.contentButtonModal}>
               <div
                 className={`${
@@ -81,7 +81,7 @@ function HomePage() {
                 onClick={() => setShowModalOne(true)}
               >
                 {" "}
-                O que é tarot?
+                O que é cartas online?
               </div>
               <div
                 className={`${
@@ -90,7 +90,7 @@ function HomePage() {
                 onClick={() => setShowModalTwo(true)}
               >
                 {" "}
-                Para que serve tarot?
+                Para que serve as cartas online?
               </div>
             </div>
           </div>

@@ -2,7 +2,7 @@
 
 ## 🧠 Contexto
 
-- 🔗 Link Documentaçãp Tarot
+- 🔗 Link Documentaçãp Cartas
 - ✨ Funcionalidades
 - 🎯 Requesitos Mínimos
 - 🛠️ Tecnologias Utilizadas
@@ -10,13 +10,13 @@
 - 🔃 Rotas
 - 👨‍💻 Desenvolvedores
 
-## 🔗 Link Documentação Tarot.json
+## 🔗 Link Documentação Cartas.json
 
  As imagens e nomes das cartas estão listadas no arquivo [`tarot.json`](tarot.json) na pasta public
 
 ## ✨ Funcionalidades
 
-Criar um jogo de Tarot, permitindo o sorteio de uma carta.
+Criar um jogo de Cartas, permitindo o sorteio de uma carta.
 
 
 ## 🎯 Requisitos Mínimos
@@ -56,7 +56,7 @@ Siga os passos e inclua as informações abaixo:
 
 <table>
   <tr>  
-    <td align="center"><a href="https://github.com/natashagomesr"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98358842?v=4" width="100px;" alt=""/>
+    <td text-align="center"><a href="https://github.com/natashagomesr"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98358842?v=4" width="100px;" alt=""/>
     <br /><sub><b>Natasha Gomes</b>
     <br></sub></a><br /> <a href="https://www.linkedin.com/in/natasha-gomes-r/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>    
   </tr>

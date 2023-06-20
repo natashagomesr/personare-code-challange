@@ -47,7 +47,7 @@
     padding: 10px;
 }
 
-.titleModalTarot{
+.titleModalCartas{
     font-size: 34px;
     color: rgb(59, 64, 108);
     font-weight: 800;
@@ -55,12 +55,12 @@
     margin-bottom: 16px;
 }
 
-.contentTextTarot, .contentTextTarotDay{
+.contentTextCartas, .contentTextCartasDay{
     font-size: 16px;
     line-height: 1.5;
 }
 
-.titleModalTarotDay{
+.titleModalCartasDay{
     font-size: 25px;
     color: rgb(59, 64, 108);
     line-height: 1.12;
@@ -86,17 +86,17 @@
     overflow-x: auto;
 }
 
-.titleModalTarot{
+.titleModalCartas{
     font-size: 20px;
 }
 
-.contentTextTarot, .contentTextTarotDay {
+.contentTextCartas, .contentTextCartasDay {
     font-size: 12px;
     line-height: 1.5;
 }
 
 
-.titleModalTarotDay{
+.titleModalCartasDay{
     font-size: 16px;
 }
 }

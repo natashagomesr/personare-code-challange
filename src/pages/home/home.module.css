@@ -54,49 +54,46 @@
 }
 
 .cardResponsive{
-    display: none;
+  display: none;
 }
 
 .cardResponsive iframe{
-    height: 100%;
-    width: 100%;  
+  height: 100%;
+  width: 100%;  
 }
 
 .boxText{
-    height: 400px;
-    max-width: 100vw;
-    display: flex;
-    margin: auto;
-    font-family: 'Montserrat', sans-serif;
-    justify-content: space-between;
-    align-items: center;
-
+  height: 400px;
+  max-width: 100vw;
+  display: flex;
+  margin: auto;
+  font-family: 'Montserrat', sans-serif;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .cardBox{
-    max-width: 50%;
+  max-width: 50%;
 }
 
 .cardBox iframe {
-      height: 100%;
-      width: 100%;
-    }
+  height: 100%;
+  width: 100%;
+  }
 
 .titleBox{
-    color: rgb(59, 64, 108);
-    font-family: 'Montserrat', sans-serif;
-    line-height: 1.12;
-    font-weight: 800;
-    font-size: 40px;
-    margin-bottom: 24px;
-    
+  color: rgb(59, 64, 108);
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.12;
+  font-weight: 800;
+  font-size: 40px;
+  margin-bottom: 24px;  
 }
 
 .textBox{
-    max-width: 50%;
-    font-size: 16px;
-    line-height: 1.5;
-
+  max-width: 50%;
+  font-size: 16px;
+  line-height: 1.5;
 }
 
 .button-modal-one{
@@ -107,7 +104,7 @@
   border-radius: 8px;
   height: 34px;
   font-size: 14px;
-  width: 115px;
+  width: 180px;
   justify-content: center;
   align-items: center;
   cursor: pointer;
@@ -133,7 +130,7 @@
   border-radius: 8px;
   height: 34px;
   font-size: 14px;
-  width: 155px;
+  width: 250px;
   justify-content: center;
   align-items: center;
   cursor: pointer;
@@ -210,6 +207,12 @@
     font-size: small;
     width: 100px;
     margin-top: 15px;
+  }
+
+  .button-modal-two{
+    max-width: 180px;
+    height: 44px;
+    text-align: center;
   }
 
   .contentButtonModal{

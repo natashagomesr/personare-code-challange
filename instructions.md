@@ -4,13 +4,13 @@
 
 ## Introdução
 
-A nossa Product Owner pensou em um produto fantástico para ser desenvolvido, e um dos desafios é criação de um jogo de Tarot.
+A nossa Product Owner pensou em um produto fantástico para ser desenvolvido, e um dos desafios é criação de um jogo de Cartas.
 
 <br>
 
 **Então, essa é a sua missão!**
 
-Criar um jogo de Tarot, permitindo o sorteio de uma carta.
+Criar um jogo de Cartas, permitindo o sorteio de uma carta.
 
 E as especificações são:
 
